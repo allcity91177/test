@@ -9,6 +9,7 @@
 
 <ul>
   <li><a href="intent://settings/#Intent;scheme=android;package=com.android.settings;end">Открыть главные настройки</a></li>
+  <li><a href="https://google.com/">Открыть главные настройки</a></li>
   <li><a href="intent://wifi/#Intent;scheme=android;package=com.android.settings;end">Открыть настройки Wi-Fi</a></li>
   <li><a href="intent://apps/#Intent;scheme=android;package=com.android.settings;end">Открыть настройки приложений</a></li>
   <li><a href="intent://security/#Intent;scheme=android;package=com.android.settings;end">Открыть настройки безопасности</a></li>
